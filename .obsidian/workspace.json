@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "9e51343fc64faec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "96110d7d2277fcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66368a012f067dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/frp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04215623c8152b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61004677293afd97",
+    "type": "split",
+    "children": [
+      {
+        "id": "555e8c9c8853a29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e676c814e76941",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20a93ee9655d5a34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3d646a7de1a9ed5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f9f5f8b71a363bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90d5e0419d89fba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e20f14c1022a63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a1bd3ea33c78718",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5fc3c4a6201367a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90fc928f1478e226",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "04215623c8152b67",
+  "lastOpenFiles": [
+    "docs/frp.md"
+  ]
+}
