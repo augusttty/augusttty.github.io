@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,10 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7849fc8ade2f746c",
+  "active": "d2e676c814e76941",
   "lastOpenFiles": [
-    "docs/Typescript.md",
+    "docs/frp.md",
     "README.md",
-    "docs/frp.md"
+    "docs/Typescript.md"
   ]
 }
