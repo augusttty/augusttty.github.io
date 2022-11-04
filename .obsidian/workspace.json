@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66368a012f067dd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/frp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04215623c8152b67",
             "type": "leaf",
             "state": {
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/frp.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/frp.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/frp.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,10 +148,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66368a012f067dd9",
+  "active": "04215623c8152b67",
   "lastOpenFiles": [
-    "docs/Typescript.md",
     "docs/frp.md",
+    "docs/Typescript.md",
     "README.md"
   ]
 }
