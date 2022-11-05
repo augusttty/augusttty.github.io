@@ -1,3 +1,7 @@
+---
+link: https://anomanm.notion.site/wsl-9fa68074715b4b85a4ae469e3d018e37
+notionID: 9fa68074-715b-4b85-a4ae-469e3d018e37
+---
 ### 查看ip地址
 
 ```bash

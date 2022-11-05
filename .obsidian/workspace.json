@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wsl相关.md",
+                "file": "docs/frp.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wsl相关.md",
+                "file": "docs/frp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wsl相关.md",
+                "file": "docs/frp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wsl相关.md"
+                "file": "docs/frp.md"
               }
             }
           }
@@ -165,8 +165,9 @@
   "active": "d8450e132317b276",
   "lastOpenFiles": [
     "docs/openwrt包管理器添加https源报错.md",
-    "docs/frp.md",
     "docs/Linux修改和查看普通用户密码.md",
+    "docs/wsl相关.md",
+    "docs/frp.md",
     "Untitled.md",
     "docs/Typescript.md",
     "README.md"
