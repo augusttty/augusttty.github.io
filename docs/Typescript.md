@@ -2,7 +2,7 @@
 link: https://anomanm.notion.site/Typescript-e82a7775546940698e54d09ebb63e9e9
 notionID: e82a7775-5469-4069-8e54-d09ebb63e9e9
 ---
-# How to create a new instance using interface
+# How to create a new instance using interface🤣
 
 ```
 interface IStudent {
