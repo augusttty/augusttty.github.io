@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/frp.md",
+                "file": "docs/Typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/frp.md",
-                "collapseAll": false,
+                "file": "docs/Typescript.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/frp.md",
+                "file": "docs/Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,21 +125,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/frp.md"
+                "file": "docs/Typescript.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "8104b3fb34b9dd4f",
   "lastOpenFiles": [
+    "docs/frp.md",
     "docs/Linux修改和查看普通用户密码.md",
     "docs/Typescript.md",
-    "README.md",
-    "docs/frp.md"
+    "README.md"
   ]
 }
