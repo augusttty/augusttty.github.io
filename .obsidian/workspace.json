@@ -11,8 +11,12 @@
             "id": "8104b3fb34b9dd4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/frp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/frp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/frp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/frp.md"
+              }
             }
           }
         ]
@@ -129,9 +137,9 @@
   },
   "active": "8104b3fb34b9dd4f",
   "lastOpenFiles": [
-    "README.md",
-    "docs/Typescript.md",
     "docs/Linux修改和查看普通用户密码.md",
+    "docs/Typescript.md",
+    "README.md",
     "docs/frp.md"
   ]
 }
