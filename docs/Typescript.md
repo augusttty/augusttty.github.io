@@ -1,6 +1,6 @@
 ---
-link: https://anomanm.notion.site/Typescript-e82a7775546940698e54d09ebb63e9e9
-notionID: e82a7775-5469-4069-8e54-d09ebb63e9e9
+link: https://anomanm.notion.site/Typescript-5651fde85e174a988a32d26c2608cfb0
+notionID: 5651fde8-5e17-4a98-8a32-d26c2608cfb0
 ---
 # How to create a new instance using interface🤣
 
