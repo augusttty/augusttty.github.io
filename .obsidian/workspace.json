@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "302589c33b8c6f2e",
+        "id": "780455ba4dd16b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "8104b3fb34b9dd4f",
+            "id": "01c2a4efde700a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Linux修改和查看普通用户密码.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a7326c8e6c4e12a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/openwrt包管理器添加https源报错.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8450e132317b276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/openwrt包管理器添加https源报错.md",
+                "file": "docs/Typescript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/openwrt包管理器添加https源报错.md",
+                "file": "docs/Typescript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/openwrt包管理器添加https源报错.md",
+                "file": "docs/Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/openwrt包管理器添加https源报错.md"
+                "file": "docs/Typescript.md"
               }
             }
           }
@@ -162,14 +137,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8450e132317b276",
+  "active": "d2e676c814e76941",
   "lastOpenFiles": [
     "docs/wsl相关.md",
-    "docs/Typescript.md",
-    "docs/Linux修改和查看普通用户密码.md",
     "docs/frp.md",
+    "docs/Linux修改和查看普通用户密码.md",
     "docs/openwrt包管理器添加https源报错.md",
-    "Untitled.md",
-    "README.md"
+    "docs/Typescript.md",
+    "README.md",
+    "Untitled.md"
   ]
 }
